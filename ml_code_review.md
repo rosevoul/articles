@@ -23,7 +23,7 @@
     - [ ]  README contains instructions on running the code, machine/cluster specs and estimated time of completion
     - [ ]  README contains list of experiments that led to final model selection
 
-# MLflow
+# MLflow Model sign-off
 
 - [ ]  Final experiment code linked to MLflow sign-off run
 - [ ]  Metrics logged
